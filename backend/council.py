@@ -69,6 +69,13 @@ Here are the responses from different models (anonymized):
 
 {responses_text}
 
+Critical instructions before you begin:
+- These responses are fully anonymized. You do not know which response you authored, and you must not attempt to identify it.
+- Evaluate each response purely on intellectual merit: accuracy, depth of reasoning, quality of evidence, and insight.
+- Do not favor or penalize any response based on writing style, tone, or any signal you might use to guess authorship.
+- Self-deprecation bias is as distorting as self-promotion bias. If you suspect a response is yours, that suspicion must not influence your ranking in either direction.
+- Rank what is objectively strongest, not what feels socially safest.
+
 Your task:
 1. First, evaluate each response individually. For each response, explain what it does well and what it does poorly.
 2. Then, at the very end of your response, provide a final ranking.
@@ -153,6 +160,8 @@ Your task as Chairman is to synthesize all of this information into a single, co
 - The individual responses and their insights
 - The peer rankings and what they reveal about response quality
 - Any patterns of agreement or disagreement
+
+Before synthesizing, ask whether the question itself needs refinement — sometimes the best answer reframes the question rather than simply resolving it. If the council's responses reveal that the question contains a hidden assumption, conflates distinct concepts, or admits a more precise formulation, surface that first before delivering your synthesis.
 
 Provide a clear, well-reasoned final answer that represents the council's collective wisdom:"""
 
