@@ -1,8 +1,8 @@
 COUNCIL_MODELS = [
     "deepseek/deepseek-v3.2",
-    "x-ai/grok-4.1-fast",
-    "google/gemini-3-flash-preview",
+    "google/gemini-2.5-flash",
     "anthropic/claude-haiku-4-5",
+    "openai/gpt-4o-mini",
 ]
 
-CHAIRMAN_MODEL = "google/gemini-3.1-pro-preview"
+CHAIRMAN_MODEL = "google/gemini-2.5-pro"
